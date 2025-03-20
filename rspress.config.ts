@@ -3,11 +3,11 @@ import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
-  title: 'My Site',
-  icon: '/rspress-icon.png',
+  title: '尼来',
+  icon: '/nilai-icon.png',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/nilai-icon.png',
+    dark: '/nilai-icon.png',
   },
   themeConfig: {
     socialLinks: [
